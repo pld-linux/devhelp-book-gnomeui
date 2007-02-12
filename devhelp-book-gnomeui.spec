@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gnomeui
-Summary(pl.UTF-8):   Książka do DevHelpa o gnomeui
+Summary(pl.UTF-8):	Książka do DevHelpa o gnomeui
 Name:		devhelp-book-gnomeui
 Version:	1.0
 Release:	1
