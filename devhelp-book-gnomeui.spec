@@ -1,5 +1,5 @@
 Summary:	DevHelp book: gnomeui
-Summary(pl):	Ksi±¿ka do DevHelpa o gnomeui
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o gnomeui
 Name:		devhelp-book-gnomeui
 Version:	1.0
 Release:	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about gnomeui.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o gnomeui.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o gnomeui.
 
 %prep
 %setup -q -c -n gnomeui
